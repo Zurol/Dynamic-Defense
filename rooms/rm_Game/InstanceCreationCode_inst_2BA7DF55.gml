@@ -1,0 +1,1 @@
+current_energy = 15
